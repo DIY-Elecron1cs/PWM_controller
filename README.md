@@ -18,4 +18,6 @@
 
 ![в сборе](https://github.com/DIY-Elecron1cs/PWM_controller/blob/main/images/IMG_20250119_104348.jpg?raw=true)
 
-<iframe width="720" height="405" src="https://rutube.ru/play/embed/33fb061a1eb1790251ead2220df7adf1/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe width="720" height="405" src="" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+[![ALT-ТЕКСТ ИЗОБРАЖЕНИЯ](https://github.com/DIY-Elecron1cs/PWM_controller/blob/main/images/IMG_20250119_104348.jpg?raw=true)](https://rutube.ru/play/embed/33fb061a1eb1790251ead2220df7adf1/)
